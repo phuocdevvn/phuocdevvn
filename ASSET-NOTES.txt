@@ -1,0 +1,7 @@
+Design notes
+------------
+- Palette: deep slate, muted blue, soft gray, and a restrained green accent.
+- All technology labels are drawn in one SVG with identical tile dimensions and text baselines.
+- The banner and footer are static vector artwork.
+- terminal.gif is the only animated asset; only the terminal cursor blinks.
+- No generated portraits, anime artwork, external badge grids, statistics widgets, or third-party icon packs.

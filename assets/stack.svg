@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="116" viewBox="0 0 1120 116" role="img" aria-labelledby="title desc">
+  <title id="title">Languages and operating systems</title>
+  <desc id="desc">Six equally sized, consistently aligned labels for C++, Python, JavaScript, Ubuntu, Arch Linux, and GitHub.</desc>
+  <defs>
+    <style>
+      .tile{fill:#101b2a;stroke:#2d4057;stroke-width:1.2}
+      .mark{fill:#dce7f2;font-family:Arial,Helvetica,sans-serif;font-size:17px;font-weight:700;text-anchor:middle}
+      .label{fill:#aebed0;font-family:Arial,Helvetica,sans-serif;font-size:13px;text-anchor:middle}
+    </style>
+  </defs>
+  <g transform="translate(0 5)">
+    <g transform="translate(0 0)"><rect class="tile" width="174" height="94" rx="8"/><text class="mark" x="87" y="43">C++</text><path d="M56 55H118" stroke="#77a8d4" stroke-width="2"/><text class="label" x="87" y="78">Language</text></g>
+    <g transform="translate(189 0)"><rect class="tile" width="174" height="94" rx="8"/><text class="mark" x="87" y="43">PY</text><path d="M56 55H118" stroke="#77a8d4" stroke-width="2"/><text class="label" x="87" y="78">Language</text></g>
+    <g transform="translate(378 0)"><rect class="tile" width="174" height="94" rx="8"/><text class="mark" x="87" y="43">JS</text><path d="M56 55H118" stroke="#77a8d4" stroke-width="2"/><text class="label" x="87" y="78">Language</text></g>
+    <g transform="translate(567 0)"><rect class="tile" width="174" height="94" rx="8"/><text class="mark" x="87" y="43">U</text><path d="M56 55H118" stroke="#83b7a3" stroke-width="2"/><text class="label" x="87" y="78">Ubuntu</text></g>
+    <g transform="translate(756 0)"><rect class="tile" width="174" height="94" rx="8"/><text class="mark" x="87" y="43">A</text><path d="M56 55H118" stroke="#83b7a3" stroke-width="2"/><text class="label" x="87" y="78">Arch Linux</text></g>
+    <g transform="translate(945 0)"><rect class="tile" width="174" height="94" rx="8"/><text class="mark" x="87" y="43">GH</text><path d="M56 55H118" stroke="#83b7a3" stroke-width="2"/><text class="label" x="87" y="78">GitHub</text></g>
+  </g>
+</svg>
